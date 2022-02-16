@@ -1,0 +1,19 @@
+body{
+background-color: #db7f33;
+}
+h1{
+    color: cornsilk;
+}
+div{
+    font-size: x-large;
+    color: cornsilk;
+}
+table{
+    border: 1px solid cornsilk;
+}
+table td{
+    border: 1px solid cornsilk;
+}
+table th{
+    border: 1px solid cornsilk;
+}
